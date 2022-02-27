@@ -1,0 +1,241 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Parliaments proceedings justified, in declining a personall treaty with the King, notwithstanding the advice of the Scotish Commissioners to that purpose. / By Henry Marten Esquire, a Member of the Commons House.</title>
+            <author>Marten, Henry, 1602-1680.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89608</idno>
+            <idno type="STC">Wing M823</idno>
+            <idno type="STC">Thomason E425_20*</idno>
+            <idno type="STC">Thomason E426_2</idno>
+            <idno type="STC">ESTC R202838</idno>
+            <idno type="EEBO-CITATION">99862998</idno>
+            <idno type="PROQUEST">99862998</idno>
+            <idno type="VID">161443</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89608)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161443)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 67:E425[20*], 67:E426[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Parliaments proceedings justified, in declining a personall treaty with the King, notwithstanding the advice of the Scotish Commissioners to that purpose. / By Henry Marten Esquire, a Member of the Commons House.</title>
+                  <author>Marten, Henry, 1602-1680.</author>
+               </titleStmt>
+               <extent>19, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Sweeting at the Angel in Popes-head Alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Feb: 7th 1647"; the 8 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>England --  Foreign relations --  Scotland --  Early works to 1800.</term>
+               <term>Scotland --  Foreign relations --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Treaties --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title">
+            <pb facs="tcp:161443:1" rendition="simple:additions"/>
+            <p>THE PARLIAMENTS Proceedings juſtified, in Declining A Perſonall Treaty WITH THE KING, Notwithſtanding the ADVICE OF THE <hi>SCOTISH COMMISSIONERS</hi> to that purpoſe.</p>
+            <p>By HENRY MARTEN Eſquire, a Mem<g ref="char:EOLhyphen"/>ber of the Commons Houſe.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Sweeting</hi> at the Angel in <hi>Popes<g ref="char:EOLhyphen"/>head Alley,</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161443:2"/>
+            <pb n="3" facs="tcp:161443:2"/>
+            <head>The Parliaments proceedings Juſti<g ref="char:EOLhyphen"/>fied in Declining a Perſonal trea<g ref="char:EOLhyphen"/>ty with the King.</head>
+            <head>To the Engliſh Readers.</head>
+            <opener>
+               <salute>Dear fellow Citizens,</salute>
+            </opener>
+            <p>MY <hi>late</hi> endeavours of this kind were be<g ref="char:EOLhyphen"/>ſtowed upon a few Strangers, in telling them that the waters were yours, and not theirs, wherein they went about to fiſh: my <hi>preſent</hi> deſire (from a double engage<g ref="char:EOLhyphen"/>ment I finde upon me, one of my own making, the other made when I was born) is to ſhew you, that you are the fiſh they went about to catch. Firſt in a net which they ſpread for the whole ſhoal of you, where you were repreſented; being diſappointed there, they go to it now with paper Angles, laying for you (man-meal) what you may be moſt apt to bite at, according to your ſeverall pallats, as they are probably ſet, ſome to the Court-way, ſome to the Presbyterian, or, as they are diſguſted, ſome with your Honorable drudges, and others with your gallant champions.</p>
+            <p>Theſe new Peter-men (more dangerous to you in point of profit, as wel as in point of honour, then thoſe that fetch your Herring from off your coaſts) are the Scotiſh Commiſſioners: and theſe four con<g ref="char:EOLhyphen"/>ſiderations which I have enumerated, are the corner
+<pb n="4" facs="tcp:161443:3"/>ſtones whereon they build their confidence of per<g ref="char:EOLhyphen"/>ſwading ſome of you, that five perſons truſted by another Kingdom for quite another purpoſe, ſhould ſettle your peace, ſhould mannage your affaires of Church and State, with more advantage to you, then that numerous Body that was entruſted by you, hath adventured for you, &amp; muſt partake with you of all the good or ill their councell ſhall pro<g ref="char:EOLhyphen"/>duce. But ſince it is poſſible for a ſtander by to ſee more then a Player, and ſince we might per<g ref="char:EOLhyphen"/>haps hope to find as much faithfulneſs in Forreiners as we have done treachery in many of our own country-men, let us conſider in this advice offered unto and rejected by the Parliament, not from what hand it comes, but upon what foot it ſtands.</p>
+            <p>The particulars inſiſted on, are theſe.</p>
+            <p>Firſt, before the <hi>primum quaerite,</hi> and with more earneſtneſs then the <hi>unum neceſſarium,) That there be a treaty upon all the Propoſitions, and that a perſonal one; &amp; that for that end, the King be invited to come to London, with honor, freedom, &amp; ſafety, as the moſt equal, faireſt, and juſt way to obtain a well grounded Peace.</hi>
+            </p>
+            <p>
+               <hi>The most equal.</hi> How like Umpires they ſpeak? not like Councellers; or as if they had entered in<g ref="char:EOLhyphen"/>to a Covenant with the King, as well as with us, whereas I thought it had been their part to have managed the Agreement with the common enemy, to the moſt advantage of their confederates, and not as perſons indifferent, whether the Hounds catch the Hare, or the Hare deceive the Hounds: I have not skil enough to diſtinguiſh ſuch Ambo<g ref="char:EOLhyphen"/>dexters from deteſtable Neuters.</p>
+            <pb n="5" facs="tcp:161443:3"/>
+            <p>Secondly, <hi>The faireſt!</hi> What is that? the ſmootheſt, eaſieſt way, why every fool can tell you, that the eaſieſt way to Peace, is by leting your ene<g ref="char:EOLhyphen"/>my do what he liſt; and ſo they would have it on this ſide Tweed: and ſo they would ſay, but for ſhame. Therefore the faireſt way of couzening you, is not by ſurrendering up your Liberties all at once, but by ſuffring you to be formally diſputed out of every one of them, and by drawing on your ſhackles link by link.</p>
+            <p>Thirdly, <hi>Peace</hi> is then <hi>in a juſt way,</hi> when the diſturbers thereof are ſo ſuppreſſed, as the diſturb<g ref="char:EOLhyphen"/>ed cannot, or need not fear a new diſturbance from them.</p>
+            <q>
+               <l>—Neque enim ad Pacem via rectior ulla eſt,</l>
+               <l>Quam belli Authores, Marte Perire ſuo.</l>
+            </q>
+            <p>Where they ſay the King ſhould be <hi>invited to London,</hi> they mean admited, for He hath invited Himſelf. But why to <hi>London?</hi> His houſes (as He calls them) ſit at <hi>Weſtminſter, White-Hall</hi> is in <hi>Middleſex,</hi> unleſs they can confide more in Colo<g ref="char:EOLhyphen"/>nel <hi>Titchbourn,</hi> then in Colonel <hi>Hammond.</hi>
+            </p>
+            <p>Then he is to be received <hi>with honor, freedom, and ſafety.</hi> What <hi>honor</hi> He is capable of, that ſhall come with a Paſs like an enemy, where he might have ſtaid with the dignity of a King. I know not; but I beleeve if ever the Parliamenr did Him any wrong, it was with giving Him, after the deſerti<g ref="char:EOLhyphen"/>on of His Truſt, the ſame reſpect which is uſually rendered unto the Kingly Office, when duly ad<g ref="char:EOLhyphen"/>miniſtred.</p>
+            <pb n="6" facs="tcp:161443:4"/>
+            <p>As for <hi>ſafety,</hi> the Parliament ſhould not do it Self honor, if whoſoever they pleaſe to ſend for, upon a Treaty, might not come and go with all the ſafety in the world.</p>
+            <p>As for <hi>freedom,</hi> though I confeſs, the conſidera<g ref="char:EOLhyphen"/>tion of reſtraint doth very much invalidate the credit of a grant made by a perſon reſtrained; yet ſince a Priſoner may be as voluntary an Agent in many things as an other; and ſince Liberty it ſelf, is as valuable to Him, as any thing that can be re<g ref="char:EOLhyphen"/>ceived from Him; eſpecially, conſidering the dan<g ref="char:EOLhyphen"/>ger of His being looſe, I ſee no reaſon why we ſhould ſo eaſily give Him His freedom, who hath made us pay ſo dear for ours. But now come their Reaſons.</p>
+            <p>Argu. I. <hi>The ſending of Propoſitions without a Treaty hath bin often without ſucceſs, and the new Pro<g ref="char:EOLhyphen"/>poſitions are leſs to the advantage of the Crown, then the former; and ſo no reaſon to expect better ſatisfacti<g ref="char:EOLhyphen"/>on, then formerly we had.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> This is a two-edged Argument, and there<g ref="char:EOLhyphen"/>fore if it ſhould be beaten down to the Fencers pate, he might be hurt with either ſide of his own wea<g ref="char:EOLhyphen"/>pon; for do they not confeſs, that if the new Pro<g ref="char:EOLhyphen"/>poſitions were as much or more advantagious to the Crown, then the former, a treaty might be di<g ref="char:EOLhyphen"/>ſpenced withal, and yet better ſatisfaction ex<g ref="char:EOLhyphen"/>pected then formerly we had?</p>
+            <p>Again, Doth it not intimate, that if we admit Him to a Treaty, He needs not greatly care what out Propoſitions be?</p>
+            <p>There is a little miſtake too in matter of fact; for
+<pb n="7" facs="tcp:161443:4"/>Propoſitions have been ſent as well with a Treaty as without, and ſtill returned with the ſame ſuc<g ref="char:EOLhyphen"/>ceſs, unleſs by Treaty they mean a Perſonal one; and that indeed we have not yet been ſo inconſider<g ref="char:EOLhyphen"/>ate, as to venter upon. Therefore ſay theſe Coun<g ref="char:EOLhyphen"/>celors, <hi>do it now,</hi> which Reaſon ſtands good to juſti<g ref="char:EOLhyphen"/>fie what we, in the Votes of <hi>January,</hi> lately reſolved, far otherwiſe then they adviſed us. Thus, addreſſes, and applications to the King, by Propoſitions with treaty, and without, when He was in a conſiderable condition for ſtrength, and when he was not, have been often aſſayed without ſucceſs; therefore we will make no more addreſſes nor applications unto Him.</p>
+            <p>Arg. 2. <hi>The Kings removal from His Parliament, is acknowledged by the Houſes in ſeveral Declarations, to be the chief cauſe of all the war, miſchief, and cala<g ref="char:EOLhyphen"/>mities of the Kingdoms, then His Majeſties preſence with his Parliament, muſt be the beſt, if not the onely remedy, to remove our troubles.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> In their firſt Argument, they mentioned Treaty and left out Perſonal; ſo in this they ſpeak for a perſonal preſence, not caring whether there be a Treaty, or no; ſo they can bring Him in upon us. But weigh their Reaſon: Firſt, they quote our own Declarations in ſuch places, as themſelves do not beleeve the truth of. For I would ask them, if His abſence from the Parliament of <hi>England</hi> be ſo per<g ref="char:EOLhyphen"/>nicious here, why is not His abſence from the Par<g ref="char:EOLhyphen"/>liament of <hi>Scotland</hi> as formidable to that King<g ref="char:EOLhyphen"/>dom? Why do they not imploy all this earneſtneſs
+<pb n="8" facs="tcp:161443:5"/>in procuring to themſelves the bleſſing of His com<g ref="char:EOLhyphen"/>pany?</p>
+            <p>Then (allowing it true againſt us, who affirmed it,) the conſequence thereof will hang thus; My groom being drunk, and falling aſleep with a candle by him, hath ſet my ſtable on fire, and burnt it down to the ground; therefore his awaking and coming to himſelf will ſet it up again. Becauſe <hi>Agag</hi> by drawing his ſword, had made many wo<g ref="char:EOLhyphen"/>men childeleſs, it ſeemed to be <hi>Sauls</hi> opinion. That the putting up his ſword again would reſtore the children to their mothers: But the ways of God were more equal in that caſe, where by the way you ſhall obſerve two remarkable Acts of retaliating juſtice; One of the Kings had his thirſt after mans blood quenched with his own; and the other, for thinking that Laws did not extend to the puniſhing of Kings, was himſelf puniſhed with being un<g ref="char:EOLhyphen"/>kinged.</p>
+            <p>Argu. 3. <hi>In a Perſonal Treaty the Commiſsioners of both Kingdoms may give Reaſons for the Equity and Expediency of our deſires, but without a Treaty or giving Reaſons for aſſerting the lawfulneſs and expe<g ref="char:EOLhyphen"/>diency of the Propoſitions to be preſented, they may be eſteemed Impoſitions.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Here they would make you beleeve, that if there were a Treaty, they would joyn with your Commiſsioners in pleading your Cauſe againſt the King; and all the while they are telling you ſo, do joyn with Him in pleading for a Perſonal treaty againſt your Commiſsioners in Parliament.
+<pb n="9" facs="tcp:161443:5"/>But admit they would be true to their truſt, and would remember on which ſide they were firſt re<g ref="char:EOLhyphen"/>tained; What kinde of Reaſons be they, that ene<g ref="char:EOLhyphen"/>mies uſe to ſhew one another in their treaties? One party ſaith, ſuch and ſuch things we will have, or the war ſhall go on; and the other, ſuch and ſuch things you ſhall accept, or do your worſt; and if there happen any communication beſides of it is concerning the advantages or diſadvantages, ſtand<g ref="char:EOLhyphen"/>ing out, the probability or deſperateneſs of relief; but our ſhewing the King how expedient the things we ask him, would be for us is a ſure way to be de<g ref="char:EOLhyphen"/>nied; how expedient for Him, as ſure a way to be laughed at.</p>
+            <p>Our Propoſitions might indeed be more proper<g ref="char:EOLhyphen"/>ly termed of Grace then Peace, becauſe we give Him therein the honor of granting what we are a<g ref="char:EOLhyphen"/>ble to give our ſelves without Him: Propoſitions though, and not Impoſitions, becauſe we leave it in His power to deprive Himſelf of that Honor, without forcing Him to take His Office up again; and yet I beleeve, if the chance of War had turn<g ref="char:EOLhyphen"/>ed the Dy on his ſide, as it did on ours, we ſhould have had Impoſitions from Him upon Impoſiti<g ref="char:EOLhyphen"/>ons, and of another kinde of nature; and ſo ſhould our dear Brethren too in their turn, and that for having made themſelves our Brethren; I mean the generality of the Nation: the Negotiators per<g ref="char:EOLhyphen"/>haps, and Treators of both Kingdoms might have ſaved their own ſtakes well enough<g ref="char:punc">▪</g>
+            </p>
+            <p>Argu. 4. <hi>The King may have ſome juſt deſires to
+<pb n="10" facs="tcp:161443:6"/>move for the Crown, and for Himſelf, as that He may have His Revenue, and that He may be reſtored to His Royal Government, which may be done with great<g ref="char:EOLhyphen"/>er honor and ſatisfaction unto Him by a Treaty then otherwiſe.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> As for the Kings being reſtored to the Crown, as well <hi>officio,</hi> as <hi>beneficio;</hi> I thought every body had underſtood that the Propoſitions, being ſigned on His part, that was the onely thing to have been performed on ours. In reſpect whereunto the things we ſent, might well be eſteemed Suppoſiti<g ref="char:EOLhyphen"/>ons; and if the greateſt Honor and Satisfaction of the conquered, muſt be aymed at by the Conquer<g ref="char:EOLhyphen"/>ors; I dare ſay, both theſe Conſiderations would better be complied with, by ſubmiting wholly to Him, then by treating at all with Him.</p>
+            <p>Arg. 5. <hi>A perſonal Treaty with the King, is the beſt way to beget a mutuall confidence between him and his Parliament; it is the beſt way to cleer His doubts, and to remove all difficulties; and it is the abſolute beſt way to give and receive mutual ſatisfaction.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Do you mark how they talk ſtill of mutu<g ref="char:EOLhyphen"/>allity? Of equal giving and receiving? As if the Parliament and their Priſoner were upon a Level.</p>
+            <p>Beſides, no treaty can indeed be altogether equal betwixt the King, and the peoples Parliament, for he deals but for himſelf, and perhaps for ſome of his own Family or Poſterity; they for two whole Na<g ref="char:EOLhyphen"/>tions. Again, the matters to be Treated on, concern him in the extent, or the Retrenchment of his pow<g ref="char:EOLhyphen"/>er to do hurt: They concern us in our wel being, if not in our being. <hi>Hic pradam petit, not ſalutem.</hi> And
+<pb n="11" facs="tcp:161443:6"/>therefore if the Parliament ſhould not make the beſt uſe in your behalf, of thoſe advantages which God hath put into their hands, they were not only indiſcreet for themſelves, but unfaithfull towards you.</p>
+            <p>It is true, that the enterview of friends doth uſe to ſtrengthen friendſhip, but the meeting of enemies is a new way to Reconciliation. A confidence, I con<g ref="char:EOLhyphen"/>feſs, it would argue, though not in him, of us, (for God Almighty, not he, hath truſted him with us already) yet in us of him, but ſuch a one as would be leſs for our credit then a diffidence, un<g ref="char:EOLhyphen"/>leſs we could ſee ſome change wrought in the affe<g ref="char:EOLhyphen"/>ctions of him, or of his party.</p>
+            <p>Arg. 6. <hi>We cannot expect that his Majeſty wil grant in</hi> terminis, <hi>whatſoever Propoſitions ſhall be ſent unto him, nor can every thing in the Propoſitions be of that Importance, as that the not granting of it ought to hin<g ref="char:EOLhyphen"/>der the peace, neither wil the Houſes of Parliament, give ful power to thir Commiſsioners, to make alterations in the Propoſitions, as they ſhall ſee cauſe upon debate; wherefore a perſonall Treaty with his Majeſty in Lon<g ref="char:EOLhyphen"/>don, is the most probable and expedient way to remove or reconcile all differences.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Wee had Reaſon to expect without any plenipotentiary authority delegated unto Commiſ<g ref="char:EOLhyphen"/>ſioners, as is uſed in caſes of a doubtfull war; That the King ſhould have granted <hi>in terminis,</hi> whatſoe<g ref="char:EOLhyphen"/>ver Propoſitions the Parliament thought fit to ſend him, eſpecially being to be made up into Laws, whether he conſider us as a free people, and there<g ref="char:EOLhyphen"/>fore
+<pb n="12" facs="tcp:161443:7"/>fit to give our ſelves the Law, or as his victors, and therefore fit to give it him.</p>
+            <p>If ſome few things in the Propoſitions were of leſs Importance then the reſt; could any man have Imagined, that rather then he would grant them, he ſhould hinder his own Inlargement, and his Recep<g ref="char:EOLhyphen"/>tion into ſo fine an office?</p>
+            <p>The words <hi>[at London]</hi> ſeem to be foiſted in by the Printer, for they have no more dependance upon a<g ref="char:EOLhyphen"/>ny one ſyllable in the half dozen of Reaſons then <hi>Warwick-Caſtle</hi> hath.</p>
+            <p>The way to remove or reconcile al differences be<g ref="char:EOLhyphen"/>twixt the King &amp; us, had been worth the ſhewing be<g ref="char:EOLhyphen"/>fore the war began, that it might have bin prevented. But for the Parliament (when after ſo long &amp; ſerious conſideration, they had Reſolved upon what tearms they would re-admit the King to the Excerciſe of his function, had addreſſed themſelves 6 or 7 times unto him, had reduced their deſires into 4 particu<g ref="char:EOLhyphen"/>lars, whereof one was neceſſary to our ſafety, ſome others not to be abated for honors ſake, and put them into the form of Bils. Whereby, if he had paſſed them, he had been owned for King again, though he ſhould have denyed all the reſt) to be perſwaded to let go their hold, to turn all looſe again, and go to it a now with Syllogiſms, whether we ſhal be free<g ref="char:EOLhyphen"/>men or ſlaves, to hazard a gained cauſe upon a treaty; I ſay not a perſonal one, but a Treaty upon all the propoſitions, is a thing which I think the King (though he doth deſire and preſs it) cannot be ſo weak as to flatter himſelf with the hope of ever bringing it about.</p>
+            <pb n="13" facs="tcp:161443:7"/>
+            <p>Obj. <hi>His preſence may breed diviſion and continue our troubles, and when his Majeſty deſired to come hi<g ref="char:EOLhyphen"/>ther from</hi> Oxford <hi>with freedome and ſafety, it was thought unfit, and denyed by the Houſes, and the Com<g ref="char:EOLhyphen"/>miſſioners from</hi> Scotland. Look ye (Countrey<g ref="char:EOLhyphen"/>men) the Scottiſh Commiſſioners are on our ſide once again, and diſpute againſt the King, but how long it will laſt? you ſhall ſee.</p>
+            <p>Sol. <hi>That argument now hath no force at all, for the caſe of affairs, the Kings condition and ours, (which were given for reaſons in that anſwer to his Maje<g ref="char:EOLhyphen"/>ſty) are quite altered from what they were then. Then the King had armies in the field, he had gariſons and ſtrong holds to return to. Now he hath none of theſe. And his Majeſty offers a full ſecurity against all hoſtility or danger that can be expected, by granting to the Houſes the power of the Militia by ſea and land, during his reign.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> Firſt, A man might tell them, that ſure the King hath ſtill as many Armies in the field, as we have Garriſons as many, and ſtrong holds, or elſe his gran<g ref="char:EOLhyphen"/>ting or not granting our Propoſitions for peace, could not be ſo conſiderable to us, as they wou'd make it.</p>
+            <p>Secondly, what ever they think, Sir <hi>Thomas Fair<g ref="char:EOLhyphen"/>fax</hi> knows he hath indeed no open force at all, and yet the objection hath force enough, for the Parlia<g ref="char:EOLhyphen"/>ment knowes that there is need of keeping of Sir <hi>Thomis Fairfax</hi> and the army under his command, or elſe they would not put the Kingdome to the charge of ſixtie thouſand pounds <hi>per</hi> moneth; they are not ignorant, that beſides their firſt enemyes
+<pb n="14" facs="tcp:161443:8"/>(who are rather kept under then brought in) there is a daily ſwarme of diſcontented perſons in all parts, ſome from the unquietneſſe of their own diſpo<g ref="char:EOLhyphen"/>ſition, ſome for want of employment, ſome for want of what they earned when they were employed, others for pure want, ſome from unſatisfaction in point of Church-government, and not a few from a weari<g ref="char:EOLhyphen"/>neſſe of expecting the iſſue of our Parliaments lon<g ref="char:EOLhyphen"/>ganimity towards the common enemy, and whether it be their purpoſe rather to continue us for ever in our diſtractions, then to ſettle the Common<g ref="char:EOLhyphen"/>wealth without him, who firſt diſerted it, and is to this day ſet in his heart, upon being either an abſo<g ref="char:EOLhyphen"/>lute Tyrant over us, or no King; I leave you now to reckon how ſtrong the preſumption is, that when ſuch a paire of bellowes ſhall come to blow the aſhes from off the coales, that were (as I told you,) raked up but not put out, when ſuch a brand ſhall be brought into the midſt of a houſe full of bituminous matter in every corner thereof, we may aſſure our ſelves to find our diviſions heightned, and our trou<g ref="char:EOLhyphen"/>bles renewed.</p>
+            <p>But they tell you (ſo groſſely, as if they did not mean to cozen you,) you may be fully ſecured a<g ref="char:EOLhyphen"/>gainſt all the dangers of his comming into the thick<g ref="char:EOLhyphen"/>eſt of you, by the offer he makes us of treating after he ſhall be with us concerning the power of our Mi<g ref="char:EOLhyphen"/>litia, for he declares himſelfe plainly, that no one particular deſired by us, ſhall be underſtood to be ſo granted by him, as not to be null and void, in caſe the whole be not agreed betwixt us, from whence you may gather, that either we muſt not be
+<pb n="15" facs="tcp:161443:8"/>ſafe at all, or elſe we muſt be content with that ſha<g ref="char:EOLhyphen"/>dow of ſafety that is to determine, (at the lateſt) with his breath in ſtead of all other things which the Parliament can propoſe for the preſent Peace, or for the future weal of <hi>England</hi> or of <hi>Ireland;</hi> and indeed ſome of his freinds with whom I have occaſion to converſe, will by way of diſcourſe ask me what a Devil We would have beſides the ſtrength of the kingdome by Sea and Land? let him have that but for a month, and he ſhall ask nothing elſe. I anſwer them almoſt in their kinde: the prince of the aire (whom they mention ſo often) ſeemes more reaſonable in his demands then our heavenly Father, for where God requires the whole heart, he will accept a little peece whereby he craves in effect no leſſe then all, ſince he is ſure God will have no partnerſhip with him. When a Serpent would obtaine an entrance, he needs not capitu<g ref="char:EOLhyphen"/>late ſave for his head, it is not ſo with other creatures. The power of the Sword is to a Monarch of abſo<g ref="char:EOLhyphen"/>lute neceſſity for the maintenance of his tyranni<g ref="char:EOLhyphen"/>call government, and that power had need to be alwayes actuated; the ſame in the hands of a Par<g ref="char:EOLhyphen"/>liament (or the repreſentatives of a free Nation) is not ſo much the power of the Sword as of the Buckler, and will not be exerciſed at all, but in caſes of Rebellion or Invaſion; if all the quarrell be<g ref="char:EOLhyphen"/>twixt the Parliament and the King were (as is preached in ſome Pamphlets and libelled in ſome Ser<g ref="char:EOLhyphen"/>mons) which of them ſhould domineer over the peo<g ref="char:EOLhyphen"/>ple, the forenamed offer might perhaps ſerve their turne; and yet I ſhould adviſe them to conſider
+<pb n="16" facs="tcp:161443:9"/>that if the temptations of the Court, either by Su<g ref="char:EOLhyphen"/>gar-plums, or by bug-bears, have beene able (as by ſad &amp; frequent experience appeares) to deboche ſo many of the peoples deputies in this very Parli<g ref="char:EOLhyphen"/>ament, as (if they were altogether in the Commons. Houſe againe, and could but perſwade moſt of thoſe Moderate Members to joyne with them whoſe e<g ref="char:EOLhyphen"/>ſtates during the late warre have lyen in Round<g ref="char:EOLhyphen"/>headed quarters) might carry what Vote they pleaſed without much oppoſition, though for the making a Forreſt of all <hi>England,</hi> and a God of <hi>Nim<g ref="char:EOLhyphen"/>rod.</hi> I ſhould adviſe them (I ſay) to conſider that the like inference may in ſhort time work upon the Members of the Army, and then the Heyfer in<g ref="char:EOLhyphen"/>deed is Ours, that is, of our breed, and for us to keep; but her ſervice will be his to plough his ground for him, and bring him home that croppe, which all his Bazan-Buls, and nobly deſcended horſes have beene foyled in.</p>
+            <p n="7">7. <hi>Argument</hi>
+            </p>
+            <p>
+               <hi>Arg.</hi> 7. Which the Commiſſioners call <hi>a far<g ref="char:EOLhyphen"/>ther Anſwer to their owne Objection,</hi> is indeed a ſeventh Reaſon newly thought on, and borrow<g ref="char:EOLhyphen"/>ed our of the Parliaments Reply to the Kings Meſſage of the 11. of <hi>Sept.</hi> 42. [All <hi>this notwithſtand<g ref="char:EOLhyphen"/>ing as we never gave your Majeſty any juſt cauſe of with drawing your ſelf from your great counſell, ſo it hath e<g ref="char:EOLhyphen"/>ver been and ſhall be far from us, to give any impedi<g ref="char:EOLhyphen"/>ment to your Return, or to neglect any proper means of curing the distempers of the Kingdomes, and cloſing the
+<pb n="17" facs="tcp:161443:9"/>dangerous breaches betwixt your Majeſtie and your Par<g ref="char:EOLhyphen"/>liament, according to the great truſt which lies upon us, and if your Majeſtie ſhall now be pleaſed to come back to your Parliament without your forces, we ſhall be ready to ſecure your Royall Crown and dignity with our lives and fortunes, your preſence in this great counſell being the only meanes of any Treaty, betwixt your Majeſty and them with hope of ſucceſſe.</hi>
+            </p>
+            <p>
+               <hi>Anſwer.</hi>
+            </p>
+            <p>
+               <hi>An.</hi> All this cannot relate to all that which hath beene done ſince <hi>September</hi> 42. he that ſaith if you ſhall now be pleaſed, doth not tell you at what time ſoever you ſhal be pleaſed; he that offers you fair termes if you come without your forces, would be thought to imagin you have forces to come with.</p>
+            <p>One while the Reaſons of our former Delarat. go for nothing, becauſe the Kings, condition and Ours are quite altered from what they were then; another while, and that within foure or five lines we muſt be held to our old refuſed offers, notwithſtanding any alteration of affaires.</p>
+            <p n="8">8. <hi>Argument.</hi>
+            </p>
+            <p n="8">8. Arg. <hi>If they were eſteemed enemies to the Par<g ref="char:EOLhyphen"/>liament and the peace of the kingdome who adviſed the King to withdraw from his Parliament? what eſtimation will the world have of them</hi> (ſcil. the Par<g ref="char:EOLhyphen"/>liament) <hi>who after ſuch a Declaration will not ſuf<g ref="char:EOLhyphen"/>fer
+<pb n="18" facs="tcp:161443:10"/>him to returne to his Parliament, when he offers to caſt himſelfe into their armes?</hi>
+            </p>
+            <p>
+               <hi>Anſwer.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> This whole Iſland (I meane the higheſt authority therein) did juſtly eſteem them enemies to the Parliament and the Peace of the kingdomes that adviſed the King to withdraw from the Par<g ref="char:EOLhyphen"/>liament? but ſince he hath followed that advice, hath fought againſt them, hath deſpiſed all o<g ref="char:EOLhyphen"/>vertures of reconciliation with them, the know<g ref="char:EOLhyphen"/>ing part of the world will eſteeme them no leſſe e<g ref="char:EOLhyphen"/>nemies that ſhall for baſe and ſiniſter ends adviſe the Parliament to receive him, and ſhall injuri<g ref="char:EOLhyphen"/>ouſly aſperſe the Parliament for declining that ad<g ref="char:EOLhyphen"/>vice, eſpecially conſidering how falſely it is affirmed that he caſt himſelfe into Our armes: The fact ſtanding thus; when Our armes had made his Head-quarters too hot for him, he caſt himſelfe in<g ref="char:EOLhyphen"/>to the Scottiſh Army, and they (like men of ho<g ref="char:EOLhyphen"/>nour,) underſtanding by how they were entertain<g ref="char:EOLhyphen"/>ed, delivered, up into Our hands all the ſtrengths and prioſoners (among whom he was one) that had come to theirs in <hi>England.</hi>
+            </p>
+            <p n="9">9. <hi>Argument.</hi>
+            </p>
+            <p>Arg. 9. <hi>If ſo kinde an offer ſhall be refuſed, and the King driven to diſpaire, it is to be feared, theſe Kingdomes ſhall be involved into greater difficulties then ever.</hi>
+            </p>
+            <pb n="19" facs="tcp:161443:10"/>
+            <p>
+               <hi>Anſwer.</hi>
+            </p>
+            <p>I will admit for once that the King hath yet ſome good thing to offer, and ſome goodneſſe of will to offer it unto the Parliament. Do they not deale hardly with Us who will not ſuffer us to re<g ref="char:EOLhyphen"/>fuſe a kindneſſe, to ſay <hi>no we thank him,</hi> without beckning him into diſpaire, and threatning Us with an involution of ſuch difficulties as never were, nor (as is to be hoped) will be? And therefore I do hold that as <hi>Pharaoh</hi> was then moſt kinde to the Iſraelites when he ſlighted all their poore addreſſes, ſo the Lord was then their compleate deliverer when he ſhut out all communication with their oppreſſors, by drawing off a Sea betwixt them.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
